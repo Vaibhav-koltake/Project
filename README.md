@@ -1,1 +1,4 @@
 # Project
+**In this project we have collected data of formula one races from 1950-2022 and visualized it using jupiter notebook. We have also used Tableau for showing statistics of some of the best drivers in the history of Formula One races.After that We used ML model for prediction of chances of winning of certain driver on a certain circuit with a certain team.This prediction can be seen on our website.**
+
+**Aim of our project is to analyse Formula One world champions statistics using tableau and Prediction of upcoming Races & World Championships using Machine Learning Model. Objective of our project is to give a simplified platform to constructors and fans of Formula One, where they can predict chances of winning of certain driver on a certain circuit with a certain team with upto 90% accuracy.**
